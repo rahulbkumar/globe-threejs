@@ -2,6 +2,9 @@
 
 An elegant, interactive 3D globe visualization built with Three.js featuring animated markers, glowing connections, and dynamic triangular patterns. The visualization creates a stunning representation of global connections with a modern, minimalist design.
 
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/87b0b405-226b-4450-a07b-8e5668c236c9">
+
+
 ## 🌟 Features
 
 - **Interactive 3D Globe**
